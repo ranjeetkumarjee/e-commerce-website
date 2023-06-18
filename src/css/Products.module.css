@@ -1,0 +1,12 @@
+
+.productHead{
+    margin-left: 3%;
+    font-size: 1.5rem;
+    color: #605959;
+}
+
+.productContainer{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 5%;
+}

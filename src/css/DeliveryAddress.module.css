@@ -1,0 +1,20 @@
+.Address{
+    display: flex;
+}
+
+.siNo{
+    width: 10%;
+        text-align: center;
+}
+
+.AddHed{
+    width: 25%;
+}
+
+.AddressContainer{
+    width: 35%;
+}
+
+.AddressChangeBtnSec{
+    width: 20%;
+}

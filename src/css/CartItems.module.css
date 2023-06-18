@@ -1,0 +1,22 @@
+.OneCartItemContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.selectedItemSec{
+    display: flex;
+}
+
+.count2{
+    width: 6%;
+        margin-left: 4%;
+        font-size: 1.3rem;
+}
+
+.hedSec{
+        font-size: 1.2rem;
+}
+
+.soredItemsContener{
+    margin-left: 50px;
+}

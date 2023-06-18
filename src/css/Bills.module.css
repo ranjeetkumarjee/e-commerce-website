@@ -1,0 +1,28 @@
+.BillContainer{
+    margin-left: 5%;
+        margin-right: 5%;
+        border: 1px solid gray;
+        border-radius: 6px;
+}
+
+.orderHed{
+    text-align: center;
+        border-bottom: 1px solid black;
+        margin-bottom: 20px;
+}
+
+.priceDesSec table{
+    margin-left: 24%;
+        font-size: 1.3rem;
+}
+
+.priceDesSec img{
+    width:10px ;
+}
+
+.payBtnSec{
+    margin-bottom: 30px;
+        margin-top: 30px;
+        padding-left:25%;
+}
+

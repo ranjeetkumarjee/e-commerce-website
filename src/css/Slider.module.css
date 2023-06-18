@@ -1,0 +1,17 @@
+.slick-slide img {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.slideImg{
+    width: 93%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 30vw;
+
+}
+
+.slideBox{
+    margin-top: 20px;
+}

@@ -1,0 +1,76 @@
+.navbar{
+    width: 100%;
+    height: 5vw;
+    background-color: rgb(102, 211, 247);
+    display: flex;
+}
+
+.navlogo{
+    width: 20%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoImg{
+    width: 21%;
+    height: 75%;
+}
+.logoImg>img{
+    width:100%;
+    height: 100%;
+}
+
+
+.navSearchSection{
+    width: 50%;
+    /* background-color: rgb(38, 255, 0); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchConteainer{
+    width: 100%;
+    height: 45%;
+}
+.searchConteainer>input{
+    width: 35%;
+    height: 65%;
+}
+
+.searchConteainer>button{
+    width: 14%;
+    height: 81%;
+    font-size: 1rem;
+}
+
+.navCartSection{
+    width: 30%;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartIcon{
+    height: 50%;
+    width: 25%;
+}
+
+.cartIcon img{
+    width: 35%;
+}
+
+.countItems{
+    width: 20px;
+    height: 20px;
+    background-color: #ffff00;
+    position: relative;
+    left: 17px;
+    top: -35px;
+    border-radius: 50%;
+    text-align: center;
+}
+

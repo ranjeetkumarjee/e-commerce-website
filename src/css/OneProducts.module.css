@@ -1,0 +1,190 @@
+.oneProduct{
+    display: flex;
+        margin-top: 60px;
+        margin-bottom: 100px;
+
+}
+
+.imageSection{
+        width: 36%;
+
+}
+
+.imageSection>img{
+        margin-left: 16%;
+            width: 71%;
+            height: auto;
+}
+
+.productDetails{
+    display: flex;
+}
+
+.ProductDescription{
+        width: 65%;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+.titleHed{
+    display: flex;
+    flex-direction: column;
+}
+
+.titileName{
+    padding-left: 5px;
+        padding-right: 5px;
+}
+
+.titileName>h2{
+    font-weight: 450;
+}
+
+.rating{
+    display: inline-block;
+        width: 45px;
+        border-radius: 5px;
+        background-color: #38f138c4;
+        padding-left: 5px;
+}
+
+.rating>img{
+width: 15px;
+}
+
+.rating>p{
+    display: inline;
+        margin-right: 5px;
+}
+
+
+.Pricing{
+    border-top: 1px solid gray;
+}
+
+
+.Pricing img{
+    width: 20px;
+}
+
+.Discount{
+    color: red;
+    font-size: 2rem;
+    display: inline;
+}
+
+.currentPrice{
+        display: inline;
+}
+
+.PriceAmount{
+    font-size: 2rem;
+}
+
+.initialPrice{
+    display: inline;
+        font-size: 0.8rem;
+        text-decoration: line-through;
+}
+
+
+.OfferSection{
+    border-top: 1px solid gray;
+        display: flex;
+}
+
+.offerBoxes{
+    width: 162px;
+        height: 145px;
+        text-align: center;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 8px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 3px 2px gray;
+}
+
+
+.offerBoxes>h4{
+    margin-bottom: 5px;
+}
+.offerBoxes>p{
+    margin-top:0px;
+}
+
+.ProductLable{
+    display: flex;
+        margin-top: 20px;
+        border-top: 1px solid gray;
+        padding-top: 10px;
+}
+
+.productFeatureIcon{
+    width: 90px;
+        height: 90px;
+        margin-right: 20px;
+        text-align: center;
+}
+
+.productFeatureIcon>img{
+width: 100px;
+}
+
+.IconHeding{
+    font-size: 0.8rem;
+        color: #337fa8;
+        font-weight: 700;
+}
+
+
+/* order section  */
+
+.orderSection{
+    width: 24%;
+    border: 1px solid gray;
+    border-radius: 9px;
+    padding-left: 20px;
+}
+
+.price{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.price>img{
+    width: 20px;
+}
+
+.price>h5{
+    display: inline;
+        font-size: 2rem;
+}
+
+.locationSection{
+    margin-bottom: 20px;
+}
+
+.location{
+    text-decoration: none;
+}
+
+.location>p{
+    display: inline;
+}
+.location>img{
+    width: 20px;
+}
+
+
+.Quantity{
+    margin-top: 20px;
+        margin-bottom: 20px;
+}
+
+.Quantity>p{
+    display: inline;
+}
+.Quantity>img{
+    width: 20px;
+    margin-left: 10px;
+}

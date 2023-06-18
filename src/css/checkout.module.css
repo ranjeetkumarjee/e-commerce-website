@@ -1,0 +1,82 @@
+.paymentSec{
+    width: 450px;
+        height: 415px;
+        background-color: gainsboro;
+        padding: 0px;
+}
+
+.checkHed{
+    background-color: #1ea0e6;
+        margin-top: 0px;
+        /* padding-top: 0%; */
+        width: 100%;
+        height: 58px;
+}
+
+.checkHed h2{
+        text-align: center;
+}
+
+.payformSec{
+    margin-top: 25px;
+}
+
+.payformSec label{
+margin-left: 25px;
+    display: block;
+}
+
+.cardNumber input{
+    margin-left: 25px;
+        width: 200px;
+        height: 23px;
+}
+
+.exmonth{
+    width: 30px;
+        margin-right: 5px;
+        margin-left: 25px;
+        height: 23px;
+}
+.exYear{
+    width: 30px;
+    height: 23px;
+}
+
+.cvv input{
+    width: 40px;
+    height: 23px;
+    margin-left: 25px;
+}
+
+.nameSec input{
+    margin-left: 25px;
+    height: 23px;
+    width: 200px;
+}
+
+.amountSec{
+    margin-top: 9px;
+        border-top: 1px solid beige;
+        text-align: center;
+}
+
+.amountSec img{
+    width: 18px;
+}
+
+.paybtnSec{
+    border-top: 1px solid gray;
+}
+
+.paybtnSec button{
+    width: 70px;
+        height: 25px;
+        font-size: 1rem;
+        display: block;
+        background-color: #ff9e00b0;
+        border-radius: 5px;
+        margin-left: 182px;
+        /* justify-content: center; */
+        margin-top: 7px;
+}

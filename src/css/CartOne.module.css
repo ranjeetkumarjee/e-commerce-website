@@ -1,0 +1,46 @@
+.oneItem{
+    display: flex;
+        margin-top: 30px;
+        height: 12vw;
+        padding-bottom: 10px;
+        border-bottom: 1px solid gray;
+}
+
+
+.ImageSection{
+width: 15%;
+    margin-right: 2%;
+}
+
+.ImageSection img{
+    width: 100%;
+    height: 100%;
+}
+
+.DescriptionSection{
+    width: 60%;
+}
+
+.pricePara img{
+    width: 10px;
+}
+
+.ButtonSec img{
+    width: 20px;
+    margin-right: 1%;
+}
+
+.plusbtn:hover{
+    cursor: pointer;
+}
+
+.minusProduct:hover{
+    cursor: pointer;
+}
+
+.deleteProductbtn:hover{
+    cursor: pointer;
+}
+
+
+
